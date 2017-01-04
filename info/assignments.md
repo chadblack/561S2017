@@ -13,8 +13,8 @@ course of the semester.
 Student’s overall grade will be based on a combination of three review papers
 and participation/leading discussion.
 
-1. Review Essays (60% of grade). Students must write three review essays during
-   the course of the semester. The first two essays cover the
+1. Review Essays (70% of grade). Students must write three review essays during
+   the course of the semester. The first two essays (20% of final grade each) cover the
    historiographical development of work in the field in two stages. The first
    should analyze the development of work from the first chronicles through
    the emergence of social history. The second should review the shift to New
@@ -27,7 +27,7 @@ and participation/leading discussion.
    general stages of the historiography as identified by Lockhart and
    Restall?
 
-   The final essay will require students to read Todorov, and critique his
+   The final essay (30% of final grade) will require students to read Todorov, and critique his
    work based on their views of Conquest at the end of the seminar.
 
    Please be concise, yet erudite. If you need guidance, you might read some
@@ -38,7 +38,7 @@ and participation/leading discussion.
 
    Review essays are due at the start of class.
 
-2. Leading Class Discussion (40% of grade). Each student will pick a week to
+2. Leading Class Discussion (30% of grade). Each student will pick a week to
    lead discussion. For each week, even those in which no student is assigned,
    everyone must email the collective with a short reaction for the
    discussion of the books – questions, observations, etc.
