@@ -65,6 +65,8 @@ Read:
 
 * Cook, *Born to Die*
 
+*PAPER ONE DUE!!!*
+
 **Week Ten** -- Spring Break (Mar 15)
 
 
@@ -94,11 +96,14 @@ Read:
 * Paz, Octavio. The Labyrinth of Solitude: Life and Thought in Mexico. New
   York: Grove Press, Inc., 1961. (Chapter 4 "The Sons of La Malinche")
 
+**PAPER TWO DUE!!!**
+
 **Week Fourteen** -- Frontiers (Apr 12)
 
 Read:
 
 * Weber, *The Spanish Frontier in North America*
+
 
 **Week Fifteen** -- Iberian Atlantic (Apr 19)
 
@@ -114,6 +119,7 @@ Read:
 
 Kamen, *Empire: How Spain Became a World Power, 1492-1763*
 
+**FINAL PAPER DUE MAY 3rd!!!**
 
 
 

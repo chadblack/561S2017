@@ -3,7 +3,7 @@ layout: default
 title: assignments
 ---
 
-# Assignments and Grading
+# assignments and grading
 
 This semester, I have decided to dispense with my normal large historiography
 project, traditionally constituted of a review of 15-20 additional works to the
