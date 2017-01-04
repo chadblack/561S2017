@@ -13,7 +13,7 @@ course of the semester.
 Student’s overall grade will be based on a combination of three review papers
 and participation/leading discussion.
 
-1. Review Essays (70% of grade). Students must write three review essays during
+1. Review Essays (60% of grade). Students must write three review essays during
    the course of the semester. The first two essays cover the
    historiographical development of work in the field in two stages. The first
    should analyze the development of work from the first chronicles through
@@ -36,12 +36,11 @@ and participation/leading discussion.
    Williams’ Style: Toward Clarity and Grace (you can dispense with Strunk and
    White, already!).
 
-   Review essays are due at the start of class on the weeks you choose to
-   write them.
+   Review essays are due at the start of class.
 
-2. Leading Class Discussion (30% of grade). Each student will pick a week to
+2. Leading Class Discussion (40% of grade). Each student will pick a week to
    lead discussion. For each week, even those in which no student is assigned,
-   everyone must email the collective with a short discurtation for the
+   everyone must email the collective with a short reaction for the
    discussion of the books – questions, observations, etc.
    Questions/observations must be submitted no later than Wednesday morning.
    Leaders should also research authors and reviews of the books, try to chart
