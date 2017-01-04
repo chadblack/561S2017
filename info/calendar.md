@@ -1,41 +1,118 @@
---- 
+---
+layout: default
+title: Home
 ---
 
 ## Schedule and Readings
 
-**Week One** -- Course Introduction (Jan 9)
+**Week One** -- Course Introduction (Jan 11)
 
 * Film: *Columbus Didn't Conquer Us* (1992)
 
-**Week Two** -- Paradigms of Conquest
+**Week Two** -- Paradigms of Conquest (Jan 18)
 
-**Week Three** -- 
+Read:
 
-**Week Four** --
+* Lockart, James. "The Social History of Early Latin America: Evolution and
+  Potential," pp. 28-80 in *Of Things of the Indies*.
+* Restall, Matthew. "A History of the New Philology and the New Philology in
+  History." Latin American Research Review 38, no. 1 (2003): 113-34.
+  Restall, Matthew. "The New Conquest History," *History Compass* (2012).
+* Stern, Steve. “Paradigms of Conquest: History, Historiography, and Politics.
+  *Journal of Latin American Studies*, Vol. 24 (1992), 1-34.
 
-**Week Five** --
 
-**Week Six** --
 
-**Week Seven** --
+**Week Three** -- Chronicles I - Mexico (Jan 25)
 
-**Week Eight** --
+Read: 
 
-**Week Nine** --
+*  Bernal Diaz, *The History of the Conquest of New Spain*
+*  Lockhart, *We People Here: Nahuatl Accounts of the Conquest of Mexico*
 
-**Week Ten** --
+**Week Four** -- Chronicles II - Peru (Jan 30)
 
-**Week Eleven** --
+Read: 
 
-**Week Twelve** --
+* Cieza de León, *The Discovery and Conquest of Peru*
+* Titu Cusi, *History of How the Spaniards Arrived in Peru*
 
-**Week Thirteen** --
+**Week Five** -- Prescott (Feb 8)
 
-**Week Fourteen** --
+Read:
 
-**Week Fifteen** --
+* Prescott, *History of the Conquest of Peru*
 
-**Week Sixteen** --
+**Week Six** -- Social History I -- Peru (Feb 15)
+
+Read:
+
+* Lockhart, *The Men of Cajamarca*
+
+**Week Seven** -- no class (Feb 22)
+
+
+**Week Eight** -- Social History II -- Yucatan (Mar 1)
+
+Read:
+
+* Clendennin, *Ambivalent Conquests*
+
+
+**Week Nine** -- Demography (Mar 8)
+
+Read:
+
+* Cook, *Born to Die*
+
+**Week Ten** -- Spring Break (Mar 15)
+
+
+**Week Eleven** -- New Conquest History I -- Perspective (Mar 22)
+
+Read:
+
+* Matthew and Oudijk, eds. *Indian Conquistadors: Indigenous Allies in the
+  Conquest of Peru*
+* Lockhart, Sousa, Wood, eds. [Sources and Methods for the Study of
+  Postconquest Mesoamerica](http://whp.uoregon.edu/Lockhart/index.html)
+
+**Week Twelve** -- New Conquest History II -- Guatemala (Mar 29)
+
+Read:
+
+* Asselsbergs, *Conquered Conquistadors*
+* Matthew, *Memories of Conquest*
+
+**Week Thirteen** -- Malintzin (Apr 5)
+
+Read:
+
+* Townsend, *Malintzin's Choices*
+* Brimingham-Pokorny, Elba D. "La Malinche: A Feminist Perspective on Otherness
+  in Mexican and Chicano Literature." Confluencia 11:2 (Spring 1996).
+* Paz, Octavio. The Labyrinth of Solitude: Life and Thought in Mexico. New
+  York: Grove Press, Inc., 1961. (Chapter 4 "The Sons of La Malinche")
+
+**Week Fourteen** -- Frontiers (Apr 12)
+
+Read:
+
+* Weber, *The Spanish Frontier in North America*
+
+**Week Fifteen** -- Iberian Atlantic (Apr 19)
+
+Read:
+
+* Cañizares-Esguerra, *Puritan Conquistadors*
+* Heany, Christopher. "A Peru of their Own: English Grave-Opening and Indian
+  Sovereignty in Early America." *William and Mary Quarterly* 73.4 (2016).
+
+**Week Sixteen** -- Empire (Apr 26)
+
+Read:
+
+Kamen, *Empire: How Spain Became a World Power, 1492-1763*
 
 
 
