@@ -5,6 +5,9 @@ title: Home
 
 ## Schedule and Readings
 
+Pdfs are available
+[here](https://www.dropbox.com/sh/yk5ub912xbsaw9i/AAB9MM4oL3W2EQCj4VDz8Mw1a?dl=0).
+
 **Week One** -- Course Introduction (Jan 11)
 
 * Film: *Columbus Didn't Conquer Us* (1992)
