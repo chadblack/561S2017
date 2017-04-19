@@ -122,7 +122,7 @@ Read:
 
 Kamen, *Empire: How Spain Became a World Power, 1492-1763*
 
-**FINAL PAPER DUE MAY 3rd!!!**
+**FINAL PAPER DUE MAY 8rd!!!**
 
 
 
